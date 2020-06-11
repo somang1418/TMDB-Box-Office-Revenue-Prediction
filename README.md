@@ -1,7 +1,7 @@
 # TMDB-Box-Office-Revenue-Prediction
 
 
-The Goal of the Competition:
+**The Goal of the Competition**: <br>
 Using metadata on over 7,000 past films from The Movie Database, I will predict their overall worldwide box office revenue.
 
 Simplified Version of How to Start with Gradient Boosting Models:
