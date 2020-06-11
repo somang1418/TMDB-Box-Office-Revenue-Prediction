@@ -1,11 +1,11 @@
-# TMDB-Box-Office-Revenue-Prediction
+## TMDB-Box-Office-Revenue-Prediction
 
 ![photo](https://www.themoviedb.org/assets/1/v4/logos/408x161-powered-by-rectangle-green-bb4301c10ddc749b4e79463811a68afebeae66ef43d17bcfd8ff0e60ded7ce99.png)
 
-**The Goal of the Competition:** <br>
+### The Goal of the Competition: <br>
 Using metadata on over 7,000 past films from The Movie Database, I will predict their overall worldwide box office revenue <br>
 
-**Simplified Version of How to Start with Gradient Boosting Models:**
+### Simplified Version of How to Start with Gradient Boosting Models:
 1. Perform an Exploratory Data Analysis (EDA) on the dataset
 2. Feature engineering: take the features that you already have and combine them or extract more information
 3. Build a quick and dirty model, or a baseline model, which can serve as a comparison against later models that you will build
