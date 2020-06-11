@@ -1,4 +1,4 @@
-## TMDB-Box-Office-Revenue-Prediction
+# TMDB-Box-Office-Revenue-Prediction
 
 ![photo](https://www.themoviedb.org/assets/1/v4/logos/408x161-powered-by-rectangle-green-bb4301c10ddc749b4e79463811a68afebeae66ef43d17bcfd8ff0e60ded7ce99.png)
 
@@ -14,5 +14,5 @@ Using metadata on over 7,000 past films from The Movie Database, I will predict 
 7. Compare different models by metric (ex. RMSE)
 8. Get a model that performs better!
 
-
+<br>
 My kaggle notebook: https://www.kaggle.com/somang1418/eda-lgb-xgb-modelings-with-a-cute-panda-meme
